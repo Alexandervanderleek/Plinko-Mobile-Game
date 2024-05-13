@@ -32,7 +32,7 @@ namespace GoogleMobileAds{
             #if UNITY_IPHONE
                 ""
             #elif UNITY_ANDROID
-                "671190401D525E1C97694A5B7A5E4860"
+                ""
                 
             #endif
         };
