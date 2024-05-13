@@ -12,7 +12,7 @@ namespace GoogleMobileAds{
     //public GameObject AdLoadedStatus;
 
     #if UNITY_ANDROID
-        private const string _adUnitId = "ca-app-pub-4487344159300856/2586165075";
+        private const string _adUnitId = "";
     #elif UNITY_IPHONE
         private const string _adUnitId = "";
     #else
