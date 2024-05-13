@@ -19,7 +19,7 @@ namespace GoogleMobileAds.Sample
 
         // These ad units are configured to always serve test ads.
 #if UNITY_ANDROID
-        private const string _adUnitId = "ca-app-pub-4487344159300856/4519027994";
+        private const string _adUnitId = "";
 #elif UNITY_IPHONE
         private const string _adUnitId = "";
 #else
